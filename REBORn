@@ -1,11 +1,11 @@
-#EXTINF:-1  tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="LOKAL_ID",TRANSTV.(z)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="LOKAL_ID",TRANS TV
 https://zozotv.xyz:443/live/lisshomestay/@1212/43.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="LOKAL_ID",TRANS7.(z)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="LOKAL_ID",TRANS 7
 https://zozotv.xyz:443/live/lisshomestay/@1212/44.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="LOKAL_ID",TRANSTV(indihome)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="LOKAL_ID",TRANSTV (indihome)
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="LOKAL_ID",TRANS7(indihome)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="LOKAL_ID",TRANS7 (indihome)
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="LOKAL_ID",TRANStv_dt
