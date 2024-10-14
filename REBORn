@@ -1278,43 +1278,6 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/302357
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 
-#EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="Sports" , DAZN 1 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="Sports" , DAZN 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="Sports" , DAZN 3 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true", LaLiga DAZN 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true",LaLiga TV Hypermotion 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true",LaLiga TV Hypermotion 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/112/727/png-transparent-rai-sport-1-hd-logo.png" group-title="Sports", Rai Sport
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1042
 
@@ -1372,8 +1335,6 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1007
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/1bfa8d48f1b877bb0320a75bb9417eed.png" group-title="Sports", Top Calcio 24
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/264571
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/e2c6c34703a44377c8eedccc50157eca.png" group-title="Sports", Zona Dazn
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304198
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_spotv_ver1.png" group-title="Relax",SPOTV_play
 http://103.160.205.142:9999/stream/channelid/1042437438?profile=pass
@@ -1957,10 +1918,7 @@ http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/167742
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/167743 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="PREMIUM✓SPORTS",PT:-SPORTTV 3 HD 
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/167744
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="PREMIUM✓SPORTS",PT:-ELEVEN SPORTS 4 HD 
-http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/167749 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="PREMIUM✓SPORTS",PT:-ELEVEN SPORTS 5 HD 
-http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/167750
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="PREMIUM✓SPORTS", FIFA Plus 1	
 https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
@@ -2139,7 +2097,202 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305275
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305276
 
 
+=============ELEVEN SPORT=============
 
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="eleven.sports.1.pl" tvg-name="PL172:Eleven Sports 1 FHD" tvg-logo="https://lo1.in/pol/ele.png" group-title="ELEVEN SPORTS",PL:Eleven Sports 1 FHD (@)
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/347.ts
+#http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/33360.ts
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="eleven.sports.2.pl" tvg-name="PL173:Eleven Sports 2 FHD" tvg-logo="https://lo1.in/pol/eles2.png" group-title="ELEVEN SPORTS",PL:Eleven Sports 2 FHD (@)
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3643.ts
+#http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/33359.ts
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="eleven.sports.3.pl" tvg-name="PL174:Eleven Sports 3 FHD" tvg-logo="https://lo1.in/pol/elvs3.png" group-title="ELEVEN SPORTS",PL:Eleven Sports 3 FHD (@)
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3644.ts
+#http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/33358.ts
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="eleven.sports.4.pl" tvg-name="PL175:Eleven Sports 4 FHD" tvg-logo="https://lo1.in/pol/evl4.png" group-title="ELEVEN SPORTS",PL:Eleven Sports 4 FHD (@))
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3645.m3u8
+#http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/33357.ts
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="PT122:Eleven Sports 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eleven_Sports.png/320px-Eleven_Sports.png" group-title="ELEVEN SPORTS",Eleven 6 Portugal (@)
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1515.ts
+#http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/29368.ts
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="ELEVEN SPORTS", Eleven 1 Portugal
+https://webhdrunns.mizhls.ru/lb/premium455/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="ELEVEN SPORTS",Eleven 2 Portugal
+https://webhdrunns.mizhls.ru/lb/premium456/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="ELEVEN SPORTS", Eleven 3 Portugal
+https://webhdrunns.mizhls.ru/lb/premium457/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4.pt" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="ELEVEN SPORTS", Eleven 4 Portugal
+https://webhdrunns.mizhls.ru/lb/premium458/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5.pt" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="ELEVEN SPORTS", Eleven 5 Portugal
+https://webhdrunns.mizhls.ru/lb/premium459/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://lo1.in/pol/ele.png" group-title="ELEVEN SPORTS",Eleven Sport 1 AU
+http://p1.cvtv.xyz/E1?token=live
+#EXTINF:-1 tvg-logo="https://lo1.in/pol/eles2.png" group-title="ELEVEN SPORTS",Eleven Sport 2 AU
+http://p1.cvtv.xyz/E2?token=live
+
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  ELEVEN SPORTS 1 HD" tvg-logo="http://163.172.39.182:80/logo/pt.png" group-title="ELEVEN SPORTS",ELEVEN SPORTS 1 HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/33429.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  ELEVEN SPORTS 2 HD" tvg-logo="http://163.172.39.182:80/logo/pt.png" group-title="ELEVEN SPORTS",ELEVEN SPORTS 2 HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/33428.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  ELEVEN SPORTS 3 HD" tvg-logo="http://163.172.39.182:80/logo/pt.png" group-title="ELEVEN SPORTS",ELEVEN SPORTS 3 HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/33427.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  ELEVEN SPORTS 4 HD" tvg-logo="http://163.172.39.182:80/logo/pt.png" group-title="ELEVEN SPORTS",ELEVEN SPORTS 4 HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/33426.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  ELEVEN SPORTS 5 HD" tvg-logo="http://163.172.39.182:80/logo/pt.png" group-title="ELEVEN SPORTS",ELEVEN SPORTS 5 HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/33425.ts
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ELEVEN SPORTS",ELEVEN•1_PT
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167746.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ELEVEN SPORTS",ELEVEN•2_PT
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167747.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ELEVEN SPORTS",ELEVEN•3_PT
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167748.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ELEVEN SPORTS",ELEVEN•4_PT
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167749.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ELEVEN SPORTS",ELEVEN•5_PT
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167750.ts
+
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-id="eleven.pt" tvg-logo="https://mytransfer.be/wp-content/uploads/2020/09/ELEVEN_Brand_Final_RGB_ELEVEN-ProLeague-Positive-small.png",ELEVEN PRO LEAGUE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey  
+#KODIPROP:inputstream.adaptive.license_key=16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae 
+https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
+
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-id="eleven.pt" tvg-logo="https://mytransfer.be/wp-content/uploads/2020/09/ELEVEN_Brand_Final_RGB_ELEVEN-ProLeague-Positive-small.png",ELEVEN PRO LEAGUE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey  
+#KODIPROP:inputstream.adaptive.license_key=c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
+https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ELEVEN SPORTS",Eleven Sports 1 HD
+http://185.236.229.62:9981/play/a05w
+#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ELEVEN SPORTS",Eleven Sports 2 HD
+http://185.236.229.62:9981/play/a05y
+#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ELEVEN SPORTS",Eleven Sports 3 HD
+http://185.236.229.62:9981/play/a061
+#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 4 HD
+http://185.236.229.62:9981/play/a046
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ELEVEN SPORTS",PT:-ELEVEN SPORTS 4 HD 
+http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/167749 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="PREMIUM✓SPORTS",PT:-ELEVEN SPORTS 5 HD 
+http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/167750
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/98jmt0" group-title="ELEVEN SPORTS" , DAZN ELEVEN 1 🇧🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-048/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/98jmt0" group-title="ELEVEN SPORTS" , DAZN ELEVEN 1 🇳🇱
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-047/stream.mpd
+
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn1.png",DAZN 1 Direto
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn2.png",DAZN 2 Direto
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn3.png",DAZN 3 Direto
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+DAZNSPORTS
+
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/baa66dbafc4be9ec7a5a6a232996a468.jpg" group-title="DAZNSPORTS", DAZN 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/79220
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/13f7be80a31515955c38a5834584d138.jpg" group-title="DAZNSPORTS", DAZN 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/39497
+
+#EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="DAZNSPORTS" , DAZN 1 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="DAZNSPORTS" , DAZN 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="DAZNSPORTS" , DAZN 3 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 group-title="DAZNSPORTS" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true", LaLiga DAZN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-title="DAZNSPORTS" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true", LaLiga DAZN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-title="DAZNSPORTS" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true",LaLiga TV Hypermotion 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 group-title="DAZNSPORTS" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true",LaLiga TV Hypermotion 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/e2c6c34703a44377c8eedccc50157eca.png" group-title="DAZNSPORTS", Zona Dazn
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304198
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/e2c6c34703a44377c8eedccc50157eca.png" group-title="DAZNSPORTS", Zona Dazn
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304198
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="India ➾ Sports",VISION_SPORTS
@@ -3640,27 +3793,6 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 #EXTINF:-1 tvg-id="Eurosport" group-title="MPD SPORT" tvg-logo="https://iili.io/JmozxBR.png",Eurosport Asia
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
-#EXTINF:-1 group-title="MPD SPORT" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn1.png",DAZN 1 Direto
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-
-#EXTINF:-1 group-title="MPD SPORT" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn2.png",DAZN 2 Direto
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-
-#EXTINF:-1 group-title="MPD SPORT" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn3.png",DAZN 3 Direto
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tnt1.png" group-title="MPD SPORT",TNT SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
@@ -4238,18 +4370,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="MPD SPORT",🇲🇨Fight Sports_cub
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 group-title="MPD SPORT" tvg-id="eleven.pt" tvg-logo="https://mytransfer.be/wp-content/uploads/2020/09/ELEVEN_Brand_Final_RGB_ELEVEN-ProLeague-Positive-small.png",ELEVEN PRO LEAGUE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey  
-#KODIPROP:inputstream.adaptive.license_key=16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae 
-https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
-
-#EXTINF:-1 group-title="MPD SPORT" tvg-id="eleven.pt" tvg-logo="https://mytransfer.be/wp-content/uploads/2020/09/ELEVEN_Brand_Final_RGB_ELEVEN-ProLeague-Positive-small.png",ELEVEN PRO LEAGUE 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey  
-#KODIPROP:inputstream.adaptive.license_key=c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
-https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="MPD SPORT",LIVE CHAMPION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01010873199d66a055cfd9b3383805b3:f4fd7461c2eda88e6185f2b4a7840a20
@@ -4274,11 +4394,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
-
-#EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true", LaLiga DAZN 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true",LaLiga TV Hypermotion 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4782,16 +4897,6 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167743.ts
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167744.ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="LIVE||SPORTS",SPORTV•4_PT
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167745.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="LIVE||SPORTS",ELEVEN•1_PT
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167746.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="LIVE||SPORTS",ELEVEN•2_PT
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167747.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="LIVE||SPORTS",ELEVEN•3_PT
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167748.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="LIVE||SPORTS",ELEVEN•4_PT
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167749.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="LIVE||SPORTS",ELEVEN•5_PT
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167750.ts
 
 #EXTINF:-1 tvg-id="ATG.se" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="LIVE||SPORTS",ATG(432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
@@ -4850,9 +4955,6 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg"  group-title="LIVE||SPORTS",Матч! Футбол 1 HD.
 http://194.143.148.28:8080/MatchFutbol1/mpegts
-
-
-
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Canais de Esportes",EUROSPORTS 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=2120
@@ -4915,14 +5017,6 @@ http://185.236.229.62:9981/play/a05e
 http://185.236.229.62:9981/play/a05r
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Canais de Esportes",CANAL+SPORT 5 HD
 http://185.236.229.62:9981/play/a05h
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Canais de Esportes",Eleven Sports 1 HD
-http://185.236.229.62:9981/play/a05w
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Canais de Esportes",Eleven Sports 2 HD
-http://185.236.229.62:9981/play/a05y
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Canais de Esportes",Eleven Sports 3 HD
-http://185.236.229.62:9981/play/a061
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Canais de Esportes",ELEVEN SPORTS 4 HD
-http://185.236.229.62:9981/play/a046
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Canais de Esportes",Extreme Sports HD
 http://185.236.229.62:9981/play/a06h
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Canais de Esportes",Fightbox HD
@@ -4994,16 +5088,10 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/554130
 #EXTINF:-1 tvg-ID="" tvg-name="AU ▎STAN EVENT 3 " tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="NZ|AUSTRALIA~SPORTS",AU ▎STAN EVENT 3
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/554131
 
-
-
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/c44034500f012d8de75ae9ec5aa242a0.png" group-title="Italy ➾ Sports",IACI Sport TV
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/298813
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/694e22fd374b5c45094824abf80013ef.png" group-title="Italy ➾ Sports", Bike
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/22709
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/baa66dbafc4be9ec7a5a6a232996a468.jpg" group-title="Italy ➾ Sports", DAZN 1
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/79220
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/13f7be80a31515955c38a5834584d138.jpg" group-title="Italy ➾ Sports", DAZN 2
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/39497
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/426ce2325be2e503a274c96fc8886fc3.png" group-title="Italy ➾ Sports", Eurosport 1
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/995
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italy ➾ Sports", EuroSport 1 TimVision
@@ -5068,8 +5156,6 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1052
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1007
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/1bfa8d48f1b877bb0320a75bb9417eed.png" group-title="Italy ➾ Sports", Top Calcio 24
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/264571
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/e2c6c34703a44377c8eedccc50157eca.png" group-title="Italy ➾ Sports", Zona Dazn
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304198
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="CANADA ➾ Sports", NFL NETWORK HD 
@@ -5407,18 +5493,6 @@ http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/4721.ts
 http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/4108.ts 
 #EXTINF:-1 tvg-ID="" tvg-name="PT:  EUROSPORT 2 XTRA HD" tvg-logo="http://163.172.39.182:80/logo/pt.png" group-title="SPORTS~PORTUGAL",EUROSPORT 2 XTRA HD 
 http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/4750.ts 
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  ELEVEN SPORTS 1 HD" tvg-logo="http://163.172.39.182:80/logo/pt.png" group-title="SPORTS~PORTUGAL",ELEVEN SPORTS 1 HD 
-http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/33429.ts 
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  ELEVEN SPORTS 2 HD" tvg-logo="http://163.172.39.182:80/logo/pt.png" group-title="SPORTS~PORTUGAL",ELEVEN SPORTS 2 HD 
-http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/33428.ts 
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  ELEVEN SPORTS 3 HD" tvg-logo="http://163.172.39.182:80/logo/pt.png" group-title="SPORTS~PORTUGAL",ELEVEN SPORTS 3 HD 
-http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/33427.ts 
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  ELEVEN SPORTS 4 HD" tvg-logo="http://163.172.39.182:80/logo/pt.png" group-title="SPORTS~PORTUGAL",ELEVEN SPORTS 4 HD 
-http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/33426.ts 
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  ELEVEN SPORTS 5 HD" tvg-logo="http://163.172.39.182:80/logo/pt.png" group-title="SPORTS~PORTUGAL",ELEVEN SPORTS 5 HD 
-http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/33425.ts
-
-
 
 #EXTINF:-1 tvg-ID="" tvg-name="MT ▎TVM SPORT HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SPORTS ▎MALTA",TVM SPORT HD
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1453913
