@@ -1694,7 +1694,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 
 #EXTINF:-1 tvg-name="DAZN F1 ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="SPORTSKU",DAZN F1 ES
 https://webhdrunns.mizhls.ru/lb/premium537/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
 #EXTINF:-1 tvg-name="Nova Sport Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nova-Sports-logo.jpg?20120904235755" group-title="SPORTSKU",Nova Sport Bulgaria
 https://webhdrunns.mizhls.ru/lb/premium468/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="Nova Sport Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nova-Sports-logo.jpg?20120904235755" group-title="SPORTSKU",Nova Sport Serbia
@@ -1804,7 +1803,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=129134&uid=7238&deviceMac=00:1A:79:22
 #http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419544&extension=ts&play_
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SPORTSKU",NOW.SPORTS-PRIME_HK
 http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419545&extension=ts&play_
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SPORTSKU", 🇭🇰 NOW.PL.SPORTS
 http://shareext@15.235.181.35/live.ts?channelId=129136&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowprem1
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SPORTSKU", 🇭🇰 NOW.SPORTS.2
@@ -1819,7 +1817,6 @@ http://shareext@15.235.181.35/live.ts?channelId=129132&uid=14505&deviceMac=00:1A
 http://shareext@15.235.181.35/live.ts?channelId=129133&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowsports6
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SPORTSKU", 🇭🇰 NOW.SPORTS.7
 http://shareext@15.235.181.35/live.ts?channelId=129134&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowsports7
-
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORTSKU", Now PremierSports 1
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425332.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORTSKU", Now PremierSports 2
@@ -2225,37 +2222,130 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-
-<===== LIGA ITALIA🇮🇹" =====>
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT057:RAI SPORT 1
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2715
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT058:RAI SPORT+
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2714
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT084:SKY SPORT ARENA
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2688
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT085:SKY SPORT CALCIO
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2687
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT087:SKY SPORT FOOTBALL
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2685
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT088:SKY SPORT GOLF
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2684
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT090:SKY SPORT NBA
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/28472
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT093:SPORT ITALIA +24
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/28469
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT094:SPORT ITALIA SOLO CALCIO
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/28468
-
-=====PREMIER LEAGUE🏴󠁧󠁢󠁥󠁮󠁧󠁿=====
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORTS 1 HD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=461186&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORTS 1
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=461185&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORT 1 HD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=57185&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORTS 2
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=461187&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORTS 2 HD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=461188&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORTS 3
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=461189&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORTS 3 HD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=461190&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORT 3 HD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=57186&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORTS 4
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=461191&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORTS 5
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=461193&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORTS 5 HD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=461194&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORTS 6
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=461195&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORTS 6 HD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=461196&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORT 1 HD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97264&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORT 2 HD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97265&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORT 3 HD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97266&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Sportskums",ELEVEN SPORTS 4 HD 
+http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/167749 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Sportskums",ELEVEN SPORTS 5 HD 
+http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/167750
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",Eleven Sports 1 FHD
+http://tv14s.xyz:8080/753468/894568/35264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORTS 3 HD
+http://tv14s.xyz:8080/753468/894568/167748
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportskums",ELEVEN SPORTS 5 HD
+http://tv14s.xyz:8080/753468/894568/167750
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz",VOO SPORT 1 SD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=390413&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz",VOO SPORT 1 HEVC
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=136936&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz",VOO SPORT 2 FHD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=59833&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz",VOO SPORT 2 HD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=390412&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz",VOO SPORT 2 SD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=390411&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz",VOO SPORT 2 HEVC
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=136937&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz",VOO SPORT 3 FHD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=59834&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz",VOO SPORT 3 HD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=390410&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz",VOO SPORT 3 SD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=390409&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz",VOO SPORT 3 HEVC
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=179666&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cosmote Sport 1
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649232&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cosmote Sport 2
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649233&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cosmote Sport 3
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649234&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cosmote Sport 4
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649235&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cosmote Sport 5
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649236&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cosmote Sport 6
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649237&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cosmote Sport 7
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649238&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cosmote Sport 8
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649239&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cosmote Sport 9
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649240&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cosmote Sport 10
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649241&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Nova Sports News
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649205&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Nova Sports 1
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649206&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Nova sports 2
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649207&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Nova Sports 3
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649208&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Nova Sports 4
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649209&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Nova Sports 5
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649210&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Nova Sports 6
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649211&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Nova sports Prime
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649217&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Nova Sports Start
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649218&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cytavision Sports 1
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649225&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cytavision Sports 2
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649226&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cytavision Sports 3
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649227&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cytavision Sports 4
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649228&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cytavision Sports 5
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649229&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cytavision Sports 7
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649231&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", GR| Cytavision Sports 6
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649230&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", TR|  EXXEN SPORTS 1 FHD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=369555&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", TR|  EXXEN SPORTS 1 HD
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=369554&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", TR|  EXXEN SPORTS 1
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=369553&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=369558&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sportkumz", TR|  EXXEN SPORTS 2 HD (ONLY EVENT)
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=369557&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.geocities.ws/alvaro8/Premier_League.jpeg" group-title="PREMIER LEAGUE🏴󠁧󠁢󠁥󠁮󠁧󠁿",PREMIER|LEAGUE_peacok_MPD(OTT.NAVIGATOR)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2607,24 +2697,28 @@ http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28438
 http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2745
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="IT028:ITALIAN FISHING TV " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT028MediasetIris.png" group-title="SERIE A ITALY🇮🇹",ITALIAN FISHING TV 
 http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2744
-
-=====SPORTS+ 🇮🇹 🇫🇷 🇮🇩🏴󠁧󠁢󠁥󠁮󠁧󠁿🇸🇦 🇲🇾 🇪🇸=====
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT057:RAI SPORT 1
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2715
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT058:RAI SPORT+
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2714
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT084:SKY SPORT ARENA
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2688
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT085:SKY SPORT CALCIO
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2687
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT087:SKY SPORT FOOTBALL
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2685
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT088:SKY SPORT GOLF
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2684
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT090:SKY SPORT NBA
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/28472
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT093:SPORT ITALIA +24
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/28469
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="LIGA ITALIA🇮🇹", IT094:SPORT ITALIA SOLO CALCIO
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/28468
 #EXTINF:-1 tvg-id="7255" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/7255.png" group-title="SPORTS+",Eleven 4K
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/20068/index.m3u8
-
 #EXTINF:-1 tvg-id="7529" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/7529.png" group-title="SPORTS+",Eleven Sports 1 4K
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/20078/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="SPORTS+", PT Eleven Sports 1 FHD
-http://tv14s.xyz:8080/753468/894568/35264
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="SPORTS+", PT: ELEVEN SPORTS 3 HD
-http://tv14s.xyz:8080/753468/894568/167748
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="SPORTS+", PT: ELEVEN SPORTS 5 HD
-http://tv14s.xyz:8080/753468/894568/167750
-
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="SPORTS+", NOW SPORT 4K 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4k100.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/612_e.png" group-title="SPORTS+", NOW SPORT 4K 2
@@ -2657,24 +2751,18 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport500.m3u8
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport600.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/637-dbg-e.png" group-title="SPORTS+", NOW SPORT 7
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport700.m3u8
-
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/Malaysia/AstroSuperSport.my.png", group-title="SPORTS+", ASTRO SUPERSPORT 1
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/59220 
-
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/Malaysia/AstroSuperSport2.my.png", group-title="SPORTS+", ASTRO SUPERSPORT 2 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/59219 
-
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/Malaysia/AstroSuperSport3.my.png", group-title="SPORTS+", ASTRO SUPERSPORT 3 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/59218 
-
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/Malaysia/AstroSuperSport4.my.png", group-title="SPORTS+", ASTRO SUPERSPORT 4 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/59217
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/SkySportCalcio.it.png" group-title="SPORTS+", SKY SPORT CALCIO 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/2687
+#EXTINF:-1, Skysky
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/2876
-
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/SkySportTennis.it.png" group-title="SPORTS+", SKY SPORT TENNIS 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/29070 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-news-hz-uk.png?raw=true" group-title="SPORTS+", SKY SPORT NEWS 
@@ -2685,38 +2773,28 @@ http://vo01.mohdtv.com:8880/voay3710/7zjhih41/2879
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/28741
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-hz-uk.png?raw=true" group-title="SPORTS+", SKY SPORT GOLF 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/2878
-
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-hz-uk.png?raw=true" group-title="SPORTS+", SKY SPORT FOOTBALL 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/2870 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-arena-hz-uk.png?raw=true" group-title="SPORTS+", SKY SPORT ARENA 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/2902 
-
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-nba-it.png?raw=true" group-title="SPORTS+", SKY SPORT NBA 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/28472
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-hz-uk.png?raw=true" group-title="SPORTS+", SKY SPORT
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/2882 
-
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png?raw=true" group-title="SPORTS+", SKY SPORT MAIN EVENT
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/2881 
-
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-hz-uk.png?raw=true" group-title="SPORTS+", SKY SPORT ACTION 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/2880 
-
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/Novasports1.cy.cyta.png" group-title="SPORTS+", NOVA SPORT 1 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/31160 
-
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/Novasports2.cy.cyta.png" group-title="SPORTS+", NOVA SPORT 2 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/31159 
-
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/Novasports3.cy.cyta.png" group-title="SPORTS+", NOVA SPORT 3 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/31158 
-
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/Novasports4.cy.cyta.png" group-title="SPORTS+", NOVA SPORT 4 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/31157 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/52/Prima_Sport_1_%282022-.n.v.%29.png" group-title="SPORTS+", PRIMA SPORT 1 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/31780 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a9/Prima_Sport_2_%282022-.n.v.%29.png" group-title="SPORTS+", PRIMA SPORT 2 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/31779 
 
@@ -3102,42 +3180,28 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=305274&ex
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="MOTOGP", FR| CANAL + MOTO GP SD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=305275&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="MOTOGP", FR073:CANAL+ MOTOGP
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2793
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="MOTOGP", ES160:MOVISTAR MOTOGP
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/29232
-
-""DAZN SPORT""
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", BE| (DAZN) ELEVEN PRO League 1 SD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=390355&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", BE| (DAZN) ELEVEN PRO LEAGUES 1 HEVC
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=151915&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", BE| (DAZN) ELEVEN PRO LEAGUES 2 FHD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=993&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", DE:DAZN 1
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2659
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", DE:DAZN 2
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2658
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", DE:DAZN 1 BAR
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2657
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", DE:DAZN 2 BAR
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2656
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", DE:DAZN 1 HEVC
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2655
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", DE:DAZN 2 HEVC
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/2654
-
 #EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_1_HD.png" group-title="DAZN SPORT", DAZN 1 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/2557 
 #EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_2_HD.png" group-title="DAZN SPORT", DAZN 2 
@@ -3146,88 +3210,60 @@ http://vo01.mohdtv.com:8880/voay3710/7zjhih41/2556
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/2555 
 #EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_4_HD.png" group-title="DAZN SPORT", DAZN 4 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/2554 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", DAZN 1 SD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=55483&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", DAZN 2 FHD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=82270&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", DAZN 2 SD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=55557&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", DAZN 3 FHD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=55558&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", DAZN 4 FHD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=55561&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", DAZN 4 SD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=55562&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", DAZN 2 BAR
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=653003&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", IT| VETRINA DAZN
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=181350&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", IT| SKY DAZN BAR FULL HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56669&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", IT| SKY DAZN BAR HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56670&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", IT| SKY DAZN BAR SD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56671&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", IT| SKY DAZN BAR 2 FULL HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56672&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", IT| SKY DAZN BAR 2 HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56673&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", IT| NFL DAZN (Only Event)
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=365410&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", IT| DAZN WEB 1
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56674&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", IT| DAZN WEB 2
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56675&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", IT| DAZN WEB 3
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56676&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", IT| DAZN WEB 4
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56677&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", IT| DAZN WEB 5
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56678&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", FOXX| DAZN (EVENTS) ||
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=677579&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", FOXX| DAZN EVENTS 1 HD (ONLY ON LIVE)
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=677580&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", FOXX| DAZN EVENTS 2 HD (ONLY ON LIVE)
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=677581&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", FOXX| DAZN EVENTS 3 HD (ONLY ON LIVE)
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=677582&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", FR| DAZN 1 SD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=655169&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", BE| (DAZN) ELEVEN SPORT 3 FHD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97373&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", BE| (DAZN) ELEVEN SPORT 3 HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=675975&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="DAZN SPORT", BE| (DAZN) ELEVEN SPORT 3 SD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=675976&extension=ts
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="DAZN SPORT", DAZN ZONE
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:6F:0A:A9&stream=1273580&extension=ts&play_token=bGsClCAwGV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="DAZN SPORT", DAZN ZONA HD
@@ -4110,35 +4146,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97208
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1877
 #EXTINF:-1 group-title="SKY SPORTS",UK: VIP SKY 2
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1878
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", BE| VOO SPORT WORLD 1 SD
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=390413&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", BE| VOO SPORT WORLD 1 HEVC
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=136936&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", BE| VOO SPORT WORLD 2 FHD
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=59833&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", BE| VOO SPORT WORLD 2 HD
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=390412&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", BE| VOO SPORT WORLD 2 SD
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=390411&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", BE| VOO SPORT WORLD 2 HEVC
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=136937&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", BE| VOO SPORT WORLD 3 FHD
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=59834&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", BE| VOO SPORT WORLD 3 HD
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=390410&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", BE| VOO SPORT WORLD 3 SD
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=390409&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", BE| VOO SPORT WORLD 3 HEVC
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=179666&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", BE-NL| PLAY SPORTS GOLF
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=453421&extension=ts
@@ -5022,12 +5029,6 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=57183&ext
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", PT| SPORT TV 5
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=57184&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", PT| ELEVEN SPORT 1 HD
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=57185&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", PT| ELEVEN SPORT 3 HD
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=57186&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", PT| EUROSPORT FHD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=57195&extension=ts
 
@@ -5186,100 +5187,6 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649223&ex
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| EUROSPORT 2
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649224&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cosmote Sport 1
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649232&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cosmote Sport 2
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649233&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cosmote Sport 3
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649234&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cosmote Sport 4
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649235&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cosmote Sport 5
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649236&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cosmote Sport 6
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649237&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cosmote Sport 7
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649238&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cosmote Sport 8
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649239&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cosmote Sport 9
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649240&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cosmote Sport 10
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649241&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Nova Sports News
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649205&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Nova Sports 1
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649206&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Nova sports 2
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649207&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Nova Sports 3
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649208&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Nova Sports 4
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649209&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Nova Sports 5
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649210&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Nova Sports 6
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649211&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Nova sports Prime
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649217&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Nova Sports Start
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649218&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cytavision Sports 1
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649225&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cytavision Sports 2
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649226&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cytavision Sports 3
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649227&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cytavision Sports 4
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649228&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cytavision Sports 5
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649229&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cytavision Sports 7
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649231&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", GR| Cytavision Sports 6
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=649230&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", TR|  EXXEN SPORTS 1 FHD
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=369555&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", TR|  EXXEN SPORTS 1 HD
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=369554&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", TR|  EXXEN SPORTS 1
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=369553&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=369558&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", TR|  EXXEN SPORTS 2 HD (ONLY EVENT)
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=369557&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", TR| TRT SPOR
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=57716&extension=ts
 
@@ -5774,16 +5681,6 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97261&ext
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", PL| TVP SPORT HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97263&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", PL| ELEVEN SPORT 1 HD
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97264&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", PL| ELEVEN SPORT 2 HD
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97265&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", PL| ELEVEN SPORT 3 HD
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97266&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="Sports Mix", HU|  DIGI Sport 1
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=213502&extension=ts
 
@@ -6366,18 +6263,12 @@ http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/167742
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/167743 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS PREMIUM✓",PT:-SPORTTV 3 HD 
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/167744
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS PREMIUM✓",PT:-ELEVEN SPORTS 4 HD 
-http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/167749 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS PREMIUM✓",PT:-ELEVEN SPORTS 5 HD 
-http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/167750
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORTS PREMIUM✓",BT.Sport.1 UK
 http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/2505/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORTS PREMIUM✓",BT.Sport.2 UK
 http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/2506/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORTS PREMIUM✓",PREMIER.SPORTS UK
 http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6555/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORTS PREMIUM✓",SKYSPORTS.FOOTBALL UK
 http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7336/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORTS PREMIUM✓",SKYSPORTS.MAINEVENT UK
